@@ -2,17 +2,13 @@
 * Created by [MohamedYosef101](https://linkedin/in/mohamedyosef101)
 * See the [notebook on Kaggle](https://www.kaggle.com/code/mohamedyosef101/house-prices-prediction)
 
-# About the competition
+## About the competition
 ![Abstract houses](https://storage.googleapis.com/kaggle-media/competitions/House%20Prices/kaggle_5407_media_housesbanner.png)
 
 
 Ask a home buyer to describe their dream house, and they probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. But this playground competition's dataset proves that much more influences price negotiations than the number of bedrooms or a white-picket fence.
 
-## Goal
-Simply to predict the sales price for each house.
 
-
-# Aknowledgement
 # Acknowlegement
 (1) [Anastasia Kishkun Analysis](https://www.kaggle.com/code/kishkun/house-pricing-analysis-model) really helped a lot and she also talked about the hack model which nobody understand yet, but have the best result of 0.044. 
 <br>
